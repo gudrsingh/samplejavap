@@ -1,2 +1,2 @@
 # samplejavap
-sample java app demo
+sample java app demo1
